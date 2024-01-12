@@ -1,0 +1,1 @@
+Script for generating PDFs invoices out of xlsx
